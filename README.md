@@ -4,7 +4,7 @@
 
 I'm completing my Bachelor's degree in Computer Engineering, with a growing focus on AI engineering and cloud infrastructure. I have a solid background in full-stack development (TypeScript/Node.js) and am currently expanding into Python and the Azure ecosystem, aiming to specialize in AI Engineering within Luxembourg's tech market.
 
-🚀 **Currently:** Two-month internship (Jul–Aug 2026) at **SNCT** (Société Nationale de Contrôle Technique)'s IT department in Luxembourg, building an AI chatbot with RAG (Retrieval-Augmented Generation) integrated into the company website.
+🚀 **Most recently:** Two-month internship (Jul–Aug 2026) at **SNCT** (Société Nationale de Contrôle Technique)'s IT department in Luxembourg, where I built an AI chatbot with RAG (Retrieval-Augmented Generation) integrated into the company website.
 
 ---
 
@@ -61,12 +61,20 @@ Full-stack AI-powered fashion platform, developed in a team environment within a
 - 🎓 **Bachelor's in Computer Engineering** | *ESTG, Polytechnic Institute of Porto* (~2 years remaining)
   - Current focus: AI engineering, cloud integration (Azure), full-stack development.
 - 🏢 **SNCT (Luxembourg)** | *IT Intern — RAG Chatbot* (Jul – Aug 2026)
-  - Building an AI chatbot with RAG integrated into WordPress, using Azure OpenAI and Azure AI Search.
+  - Built an AI chatbot with RAG integrated into WordPress, using Azure OpenAI and Azure AI Search.
 - 💼 **Fashable.ai** | *Full-Stack Developer Intern* (6 months)
   - Developed an AI fashion platform, focusing on vector image search, authentication, and monorepo architecture.
 - 📜 **CTeSP in Web and Mobile Development** (completed)
   - Foundation in web and mobile development, currently being formally recognized in Luxembourg.
 - 🔜 **Next step:** deepening Python skills and preparing for the **AI-102 / AI-103 (Azure AI Engineer)** certification, consolidating my AI Engineering specialization.
+
+---
+
+## 📫 Get in Touch
+
+- 📍 Luxembourg & Braga, Portugal
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-martins1)
+- ✉️ [Email](mailto:alex.martins.eu@gmail.com)
 
 ---
 
