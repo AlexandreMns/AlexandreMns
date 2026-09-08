@@ -77,9 +77,3 @@ Full-stack AI-powered fashion platform, developed in a team environment within a
 - ✉️ [Email](mailto:alex.martins.eu@gmail.com)
 
 ---
-
-## 📫 Get in Touch
-
-- 📍 Luxembourg & Braga, Portugal
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-martins1)
-- ✉️ [Email](mailto:alexandre.martins.trb@gmail.com)
